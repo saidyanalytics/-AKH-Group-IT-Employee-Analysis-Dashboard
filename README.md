@@ -115,7 +115,7 @@ I independently handled the **entire workflow** of this project:
 
 
 
-> 📎 [Watch the video demo here](#) *(https://drive.google.com/file/d/1z7ljozShghPEkKje6lwwKFqOrdHLgVJS/view?usp=sharing)*
+> 📎 [Watch the video demo here](https://drive.google.com/file/d/1yvVMC9IfP9TA7TqMYVU6_cRXrVfm-gMu/view?usp=sharing))*
 
 
 
