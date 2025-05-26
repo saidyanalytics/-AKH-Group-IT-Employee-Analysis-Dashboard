@@ -125,10 +125,24 @@ I independently handled the **entire workflow** of this project:
 
 
 
-## 📂 Files Included
+Feedback & Support
 
-- `AKH IT & Employee Analysis.pbix` – Main dashboard file  
-- `Employee Dashboard Screenshot.png` – Preview of final output
+
+
+If you liked this project, please give it a ⭐ on GitHub.
+
+
+For any suggestions or collaborations, feel free to reach out.
+
+
+---
+
+
+
+📚 More Projects Coming Soon…
+
+
+Stay tuned for more real-world business dashboard projects and case studies.
 
 
 
