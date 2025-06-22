@@ -81,7 +81,7 @@ To deliver clear insights on:
 - 📌 Pie & Bar charts to show top and bottom departments  
 - 📌 Line charts for satisfaction trends  
 - 📌 Risk assessment module to flag vulnerable employees  
-- 📌 Interactive slicers for better user control
+- 📌 Interactive slicers for better user control.
 
 
 
