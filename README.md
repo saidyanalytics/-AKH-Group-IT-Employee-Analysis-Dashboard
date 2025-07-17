@@ -2,7 +2,7 @@
 
 
 
-This project showcases an in-depth analysis of employee data from AKH Group, focusing on department-wise performance,
+This project showcases an in-depth analysis of employee data from AKH Group, focusing on department-wise performance, 
 satisfaction, risk level, and promotion distribution. 
 The interactive dashboard is built with a strategic mindset to help HR and management make data-driven decisions.
 
